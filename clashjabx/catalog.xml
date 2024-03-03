@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/E:/AluCiclesGS1/miquel%20fàbrega/perrsistencia%20en%20fitxers/clashjabx/src/clashjabx/clash_1.xsd" uri="xml-resources/jaxb/clash/clash_1.xsd"/>
+</catalog>
