@@ -16,20 +16,20 @@ The project comprises several exercises aimed at showcasing XML data handling in
 
 This exercise allows users to create players and cards by inputting relevant details. The data is then stored in XML format for further processing.
 
-![Create Player and Card Screenshot](/Images/CreatePlayer.png)
+![List Players and Cards Screenshot](/Images/ListPlayers&Cards.png)
 
 ### Exercise 2: Listing Players and Cards
 
 Users can view a list of existing players and their associated cards. This provides a comprehensive overview of the available data.
 
-![List Players and Cards Screenshot](/Images/ListPlayers&Cards.png)
+![Create Player and Card Screenshot](/Images/CreatePlayer.png)
+![Player Created Screenshot](/Images/PlayerCreated.png)
 
 ### Exercise 3: Creating Cards for Existing Players
 
 In this exercise, users can create new cards and assign them to existing players. This functionality enhances the versatility of the data management system.
 
 ![Create Card Screenshot](/Images/CreateCard.png)
-![Player Created Screenshot](/Images/PlayerCreated.png)
 
 ## How to Run:
 
