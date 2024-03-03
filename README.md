@@ -28,6 +28,7 @@ Users can view a list of existing players and their associated cards. This provi
 ### Exercise 3: Creating Cards for Existing Players
 
 In this exercise, users can create new cards and assign them to existing players. This functionality enhances the versatility of the data management system.
+
 ![Create Card Screenshot](/Images/AddingCard.png)
 ![Create Card Screenshot](/Images/CreateCard.png)
 
